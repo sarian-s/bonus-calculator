@@ -7,7 +7,7 @@ public class bonus_calculator {
 
         int bonusToRub = 100;
 
-        int bonus = putAmount >1000 ? putAmount / bonusToRub : 0;
+        int bonus = putAmount > 1000 ? putAmount / bonusToRub : 0;
 
         System.out.println("Пополнение счета на  " + putAmount);
 
@@ -20,7 +20,7 @@ public class bonus_calculator {
         } else {
             System.out.println("итоговая сумма на счету " + (invoiceAmount + putAmount + 0));
         }
-         */
+        */
 
     }
 }
