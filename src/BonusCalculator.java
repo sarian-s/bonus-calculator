@@ -1,4 +1,4 @@
-public class bonus_calculator {
+public class BonusCalculator {
     public static void main(String[] args) {
 
         int invoiceAmount = 1000;
